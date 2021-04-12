@@ -1,1 +1,2 @@
 # Twitter-sentiment-analysis
+To perform sentiment analysis using the extracted features, we use Multinomial Na ̈ıve-Bayes classifier. The source code and dataset has been taken from GitHub (Gunjan993); it has been modified accordingly to my use. This source code is licensed under the MIT license found in the LICENSE file. I would also like to acknowledge websites used such as ‘’TowardsDataScience” and “GeeksforGeeks”.
